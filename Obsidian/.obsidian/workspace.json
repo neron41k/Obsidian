@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dde0e76354f589e9",
+            "id": "5d4c9d00c709de29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Задачи 30.01.2026.md",
+                "file": "Работа с приложением.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Задачи 30.01.2026"
+              "title": "Работа с приложением"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Задачи.md",
+                "file": "Работа с приложением.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Задачи"
+              "title": "Outgoing links from Работа с приложением"
             }
           },
           {
@@ -194,12 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dde0e76354f589e9",
+  "active": "5d4c9d00c709de29",
   "lastOpenFiles": [
     "Задачи.md",
+    "{867C0511-A5AA-49A0-A831-A0CEF791571F}.png",
+    "{BFCF7FC2-A3BF-439C-AF86-39C1F684227B}.png",
     "Задачи 30.01.2026.md",
-    "Цикличные заявки.md",
+    "Работа с приложением.md",
     "Пагинация.md",
+    "Цикличные заявки.md",
     "2025-12-23.md"
   ]
 }
