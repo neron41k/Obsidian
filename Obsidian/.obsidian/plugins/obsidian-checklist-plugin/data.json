@@ -1,0 +1,19 @@
+{
+  "todoPageName": "todo",
+  "showChecked": true,
+  "showAllTodos": false,
+  "showOnlyActiveFile": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "Tasks/16.03.2026.md",
+    "Tasks/11.03.2026.md"
+  ],
+  "_hiddenTags": []
+}
