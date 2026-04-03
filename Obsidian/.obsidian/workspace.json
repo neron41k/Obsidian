@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dcf3f9c1969ddddb",
+        "id": "da05cffbc5f210bc",
         "type": "tabs",
         "children": [
           {
-            "id": "6c82baaf242bc4e8",
+            "id": "80e0541f818642ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,15 +195,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c82baaf242bc4e8",
+  "active": "327213d3230c2759",
   "lastOpenFiles": [
-    "Attachments/{6E4166FE-07A6-47E9-981A-8882B457C081}.png",
-    "Работа с приложением.md",
-    "Old/Цикличные заявки.md",
-    "Old/Задачи.md",
-    "Old/Задачи 30.01.2026.md",
     "Old/Пагинация.md",
+    "Old/Цикличные заявки.md",
     "Old/Печатная форма Попов.md",
+    "Old/Задачи 30.01.2026.md",
+    "Old/Задачи.md",
+    "Задачи 10.03.2026.md",
+    "Работа с приложением.md",
+    "Attachments/{6E4166FE-07A6-47E9-981A-8882B457C081}.png",
     "Старое/ПФ v2.md",
     "Старое/пф v3.md",
     "Attachments/{6997DE50-6BFB-46DA-B551-685A37F11D7E} 1.png",
@@ -211,7 +213,6 @@
     "Untitled.base",
     "Attachments",
     "Untitled 1.base",
-    "Задачи 10.03.2026.md",
     "Old",
     "Восстановление прав.md",
     "Attachments/{1AB0DC4C-BB47-4CF4-9CA8-DE643D67BCB5}.png",
