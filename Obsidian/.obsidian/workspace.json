@@ -27,15 +27,14 @@
             "id": "891dfdcbc2073557",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Obsidian/Задачи 10.03.2026.md",
-                "bFile": "Obsidian/Задачи 10.03.2026.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Задачи 10.03.2026  (Index)"
+              "icon": "lucide-file",
+              "title": "Tasks"
             }
           }
         ],
@@ -117,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 212.5,
+    "collapsed": true
   },
   "right": {
     "id": "47db96d6336dc594",
@@ -269,7 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 700.5
+    "width": 400.5
   },
   "left-ribbon": {
     "hiddenItems": {
