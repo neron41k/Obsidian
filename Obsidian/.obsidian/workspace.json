@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2026.04.06 - Monday.md",
+                "file": "HomePage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026.04.06 - Monday"
+              "title": "HomePage"
             }
           }
         ],
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2026.04.06 - Monday.md",
+                "file": "HomePage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026.04.06 - Monday"
+              "title": "Backlinks for HomePage"
             }
           },
           {
@@ -235,12 +235,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2026.04.06 - Monday.md",
+                "file": "HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026.04.06 - Monday"
+              "title": "Outgoing links from HomePage"
             }
           }
         ],
@@ -248,7 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,7 +263,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-day-planner:Open Timeline": true,
       "obsidian-day-planner:Open Multi-Day View": true,
-      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-excalidraw-plugin:New drawing": true,
       "file-tree-alternative:File Tree Alternative Plugin": true,
       "obsidian-full-calendar:Open Full Calendar": true,
       "obsidian-kanban:Create new board": false,
@@ -279,22 +279,26 @@
   },
   "active": "314508055514232e",
   "lastOpenFiles": [
+    "DailyNotes/2026.04.06 - Monday.md",
     "HomePage.md",
+    "Templates/DailyNotes/Tasks.md",
+    "Guides/Пагинация.md",
+    "Main/Untitled.md",
+    "Guides/Цикличные заявки.md",
+    "Guides/Работа с приложением.md",
+    "Guides/Печатная форма Попов.md",
+    "Excalidraw/Drawing 2026-04-06 15.59.03.excalidraw.md",
+    "Скриншоты с телефона.md",
+    "Tasks.md",
     "Main/Untitled.base",
     "Main/Untitled Kanban.md",
-    "Excalidraw/Drawing 2026-04-06 15.59.03.excalidraw.md",
     "Excalidraw",
-    "DailyNotes/2026.04.06 - Monday.md",
-    "Main/Untitled.md",
     "xFiles/{BFCF7FC2-A3BF-439C-AF86-39C1F684227B}.png",
     "xFiles/{8D3E2107-63BB-4280-9DD3-A7D16E246A67}.png",
-    "Скриншоты с телефона.md",
     "xFiles/{6997DE50-6BFB-46DA-B551-685A37F11D7E}.png",
     "xFiles/{867C0511-A5AA-49A0-A831-A0CEF791571F}.png",
     "xFiles/{6E4166FE-07A6-47E9-981A-8882B457C081}.png",
     "xFiles/{53C0A196-8FB1-4FDD-AAD1-515F93C5DCA0}.png",
-    "Tasks.md",
-    "Templates/DailyNotes/Tasks.md",
     "DailyNotes/2026.03.28 - Saturday.md",
     "DailyNotes/2026.04.05 - Sunday.md",
     "Tasks/Задачи.md",
@@ -309,10 +313,7 @@
     "Tasks/16.03.2026.md",
     "Tasks/11.03.2026.md",
     "Tasks/10.03.2026.md",
-    "Templates/Templater/NewNote.md",
-    "Main/NewNote.md",
     "xFiles/{FD872F62-54EA-4CF1-B6F1-CB2D2A4A175B}.png",
-    "DailyNotes/2026.04.07 - Tuesday.md",
     "Main",
     "DailyNotes",
     "Templates/Templater",
