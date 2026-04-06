@@ -1,5 +1,8 @@
 {
   "trashOption": "local",
   "showLineNumber": false,
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "xFiles",
+  "showUnsupportedFiles": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Main"
 }

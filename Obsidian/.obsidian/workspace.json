@@ -4,37 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "d4f0a88915f1e3ec",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "e5eda9925beb7ea0",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/03.04.2026.md",
+                "file": "HomePage.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "03.04.2026"
+              "title": "HomePage"
             }
           },
           {
-            "id": "891dfdcbc2073557",
+            "id": "9c856620449b8998",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "DailyNotes/2026.04.06 - Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "2026.04.06 - Monday"
             }
           }
         ],
@@ -110,14 +110,23 @@
               "icon": "sheets-in-box",
               "title": "File Tree"
             }
+          },
+          {
+            "id": "a07920fc89029d64",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "right": {
     "id": "47db96d6336dc594",
@@ -153,6 +162,26 @@
             }
           },
           {
+            "id": "4098b09dfa445d1e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "2475079c871ab8ba",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
             "id": "d1a5c5cec5877c44",
             "type": "leaf",
             "state": {
@@ -164,39 +193,6 @@
               },
               "icon": "lucide-archive",
               "title": "All properties"
-            }
-          },
-          {
-            "id": "15d2f506ed04d0f3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Tasks/11.03.2026.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 11.03.2026"
-            }
-          },
-          {
-            "id": "774099157609f8a6",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Tasks/11.03.2026.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 11.03.2026"
             }
           },
           {
@@ -215,53 +211,36 @@
             }
           },
           {
-            "id": "8de8c124c924c138",
+            "id": "15d2f506ed04d0f3",
             "type": "leaf",
             "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "type": "backlink",
+              "state": {
+                "file": "DailyNotes/2026.04.06 - Monday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026.04.06 - Monday"
             }
           },
           {
-            "id": "c74233c5f48c35b4",
+            "id": "774099157609f8a6",
             "type": "leaf",
             "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "2475079c871ab8ba",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "4098b09dfa445d1e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "ff1de95cf1e992d2",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "clock",
-              "title": "Reminders"
+              "type": "outgoing-link",
+              "state": {
+                "file": "DailyNotes/2026.04.06 - Monday.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026.04.06 - Monday"
             }
           }
         ],
@@ -269,79 +248,81 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "homepage:Open homepage": false,
       "daily-notes:Open today's daily note": false,
-      "switcher:Open quick switcher": false,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
+      "bases:Create new base": true,
+      "obsidian-git:Open Git source control": true,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-day-planner:Open Timeline": true,
       "obsidian-day-planner:Open Multi-Day View": true,
       "obsidian-excalidraw-plugin:New drawing": false,
       "file-tree-alternative:File Tree Alternative Plugin": true,
-      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-full-calendar:Open Full Calendar": true,
       "obsidian-kanban:Create new board": false,
-      "notebook-navigator:Notebook Navigator": false,
+      "notebook-navigator:Notebook Navigator": true,
       "pdf-plus:PDF++: Toggle auto-copy": true,
       "pdf-plus:PDF++: Toggle auto-focus": true,
       "pdf-plus:PDF++: Toggle auto-paste": true,
       "darlal-switcher-plus:Open in Headings Mode": true,
       "darlal-switcher-plus:Open Symbols for the active editor": true,
-      "templater-obsidian:Templater": true
+      "templater-obsidian:Templater": true,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "891dfdcbc2073557",
+  "active": "314508055514232e",
   "lastOpenFiles": [
+    "HomePage.md",
+    "Main/Untitled.base",
+    "Main/Untitled Kanban.md",
+    "Excalidraw/Drawing 2026-04-06 15.59.03.excalidraw.md",
+    "Excalidraw",
+    "DailyNotes/2026.04.06 - Monday.md",
+    "Main/Untitled.md",
+    "xFiles/{BFCF7FC2-A3BF-439C-AF86-39C1F684227B}.png",
+    "xFiles/{8D3E2107-63BB-4280-9DD3-A7D16E246A67}.png",
+    "Скриншоты с телефона.md",
+    "xFiles/{6997DE50-6BFB-46DA-B551-685A37F11D7E}.png",
+    "xFiles/{867C0511-A5AA-49A0-A831-A0CEF791571F}.png",
+    "xFiles/{6E4166FE-07A6-47E9-981A-8882B457C081}.png",
+    "xFiles/{53C0A196-8FB1-4FDD-AAD1-515F93C5DCA0}.png",
     "Tasks.md",
-    "Tasks/03.04.2026.md",
-    "Tasks/27.03.2026.md",
-    "Tasks/31.03.2026.md",
-    "Tasks/02.04.2026.md",
-    "Tasks/Скриншоты с телефона.md",
-    "Tasks/26.03.2026.md",
-    "Tasks/01.04.2026.md",
-    "Tasks/25.03.2026.md",
+    "Templates/DailyNotes/Tasks.md",
+    "DailyNotes/2026.03.28 - Saturday.md",
+    "DailyNotes/2026.04.05 - Sunday.md",
     "Tasks/Задачи.md",
-    "Attachments/{6E4166FE-07A6-47E9-981A-8882B457C081}.png",
+    "Tasks/27.03.2026.md",
+    "Tasks/Задачи 30.01.2026.md",
+    "Tasks/31.03.2026.md",
+    "Tasks/25.03.2026.md",
     "Tasks/23.03.2026.md",
     "Tasks/20.03.2026.md",
+    "Tasks/18.03.2026.md",
     "Tasks/17.03.2026.md",
     "Tasks/16.03.2026.md",
     "Tasks/11.03.2026.md",
     "Tasks/10.03.2026.md",
+    "Templates/Templater/NewNote.md",
+    "Main/NewNote.md",
+    "xFiles/{FD872F62-54EA-4CF1-B6F1-CB2D2A4A175B}.png",
+    "DailyNotes/2026.04.07 - Tuesday.md",
+    "Main",
+    "DailyNotes",
+    "Templates/Templater",
+    "Templates/DailyNotes",
+    "xFiles",
     "Attachments/{1AB0DC4C-BB47-4CF4-9CA8-DE643D67BCB5}.png",
-    "Guides/Цикличные заявки.md",
-    "Guides/Работа с приложением.md",
-    "Guides/Печатная форма Попов.md",
-    "Guides/Пагинация.md",
-    "Tasks/18.03.2026.md",
-    "Tasks/Задачи 30.01.2026.md",
     "Guides",
     "Untitled.base",
     "Attachments/{79A17BDC-F17C-41BD-87F5-BBCEB6AB8D7A}.png",
     "Attachments/{D4EC934A-257E-4C8E-BD71-3C3E0E1D2A94}.png",
-    "Attachments/{BB98FA39-88F3-4DD7-ACCC-C786E7A622C7}.png",
-    "Attachments/{63B3BBD5-21ED-4723-A9A6-73DE24983564}.png",
-    "Attachments/{53C0A196-8FB1-4FDD-AAD1-515F93C5DCA0}.png",
-    "Tasks/11.03.2026n.md",
-    "pininfo.md",
-    "Template/Задачи.md",
-    "Template",
-    "Tasks",
-    "Старое/ПФ v2.md",
-    "Attachments/{6997DE50-6BFB-46DA-B551-685A37F11D7E} 1.png",
-    "Attachments/{BFCF7FC2-A3BF-439C-AF86-39C1F684227B}.png",
-    "Attachments/{6997DE50-6BFB-46DA-B551-685A37F11D7E}.png",
-    "Attachments",
-    "Untitled 1.base",
-    "Old"
+    "Templates"
   ]
 }

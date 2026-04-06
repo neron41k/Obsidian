@@ -1,5 +1,5 @@
 {
-  "format": "DD.MM.YYYY",
-  "folder": "Tasks",
-  "template": "Template/Задачи"
+  "format": "YYYY.MM.DD - dddd",
+  "folder": "DailyNotes",
+  "template": "Templates/DailyNotes/Tasks"
 }
